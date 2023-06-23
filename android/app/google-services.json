@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893349040607",
+    "project_id": "myshoppingapp-bbb18",
+    "storage_bucket": "myshoppingapp-bbb18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893349040607:android:4654fde27f6c91fdbf346a",
+        "android_client_info": {
+          "package_name": "com.fahad.emart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893349040607-auusfinjsck6dccbc0f9r987uhphqhmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFA7o38ClQzAr09htTGH24PiMDvrC9LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893349040607-auusfinjsck6dccbc0f9r987uhphqhmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

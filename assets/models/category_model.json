@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "name": "Men's Clothes",
+      "subcategory": [
+        "Shirts",
+        "Pants",
+        "Jackets"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategory": [
+        "Computers",
+        "Televisions",
+        "Smartphones"
+      ]
+    },
+    {
+      "name": "Automobile",
+      "subcategory": [
+        "Cars",
+        "Motorcycles",
+        "Trucks"
+      ]
+    },
+    {
+      "name": "Toys",
+      "subcategory": [
+        "Action Figures",
+        "Board Games",
+        "Puzzles"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subcategory": [
+        "Basketball",
+        "Soccer",
+        "Tennis"
+      ]
+    },
+    {
+      "name": "Mobiles",
+      "subcategory": [
+        "Android",
+        "iOS",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Beauty Product",
+      "subcategory": [
+        "Skincare",
+        "Makeup",
+        "Fragrances"
+      ]
+    },
+    {
+      "name": "Construction Material",
+      "subcategory": [
+        "Bricks",
+        "Cement",
+        "Lumber"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subcategory": [
+        "Sofas",
+        "Tables",
+        "Chairs"
+      ]
+    }
+  ]
+}
