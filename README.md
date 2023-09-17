@@ -16,7 +16,7 @@ Welcome to the Flutter eMart Shopping App repository! Dive into a seamless and u
 - **Customer Reviews & Ratings**: Make informed purchasing decisions with the help of genuine customer reviews and ratings.
 - **Seamless Checkout Process**: Enjoy a quick and smooth checkout process, making your shopping spree hassle-free.
 - **Responsive Customer Support**: Get prompt responses to your queries with our dedicated customer support team.
-- 
+  
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
